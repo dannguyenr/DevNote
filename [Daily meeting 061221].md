@@ -3,3 +3,4 @@
   # Làm thế nào để confirm tài liệu, bằng CLI hoặc sửa dữ liệu trong csdl?
   # Làm Liveness detection là gì? Giải quyết vấn đề gì? Làm thế nào để truy cập vào trang/st liveness detection
   # const isInLivenessDetectionStep = !isMissingId && !isMissingPanCard;
+    Id là CMT/BLX/Passpord, vậy PanCard là gì? Có phải bước verify thứ 2 l
